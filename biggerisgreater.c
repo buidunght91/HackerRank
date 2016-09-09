@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : [Hackerrank]  BiggerIsGreater.c
- Author      : The true red devil
+ Author      : UnlimitedJoy
  Version     :
  Copyright   : Code for the hankerrank contest
  Description : Hello World in C, Ansi-style
@@ -84,7 +84,7 @@ int main(void) {
 
 	int t = 0, T = 0;
 
-	//freopen("input.txt", "r", stdin);
+	freopen("input.txt", "r", stdin);
 	scanf("%d", &T);
 
 	while (t < T) {
