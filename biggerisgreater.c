@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : [Hackerrank]  BiggerIsGreater.c
- Author      : The true red devil
+ Author      : UnlimitedJoy
  Version     :
  Copyright   : Code for the hankerrank contest
  Description : Hello World in C, Ansi-style
